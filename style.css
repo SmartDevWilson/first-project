@@ -1,11 +1,11 @@
 .coolTitle {
   text-align: right;
   font-family: 'Oswald', Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 100px;
   transform: skewY(-10deg);
   letter-spacing: 4px;
   word-spacing: -8px;
-  color: yellow;
+  color: green;
   text-shadow: 
     -1px -1px 0 firebrick,
     -2px -2px 0 firebrick,
